@@ -7,7 +7,7 @@ import asyncio
 
 # Ustawienia bota
 prefix = "!"  # Możesz dostosować prefiks komendy według własnych preferencji
-token = "MTE5NDAwNzEzOTYxNDczMjM3MA.GQCVL8.FeN8UvF_lTFm0I9RGZJDjcg1ySJ2w-AA1pRBzw"  # Zastąp "TUTAJ_TWÓJ_TOKEN" rzeczywistym tokenem bota
+token = ""  # Zastąp "TUTAJ_TWÓJ_TOKEN" rzeczywistym tokenem bota
 
 # Inicjalizacja bota
 intents = discord.Intents.all()  # Lub możesz dostosować Intents według własnych potrzeb
